@@ -52,7 +52,8 @@ MP3-Tag-Reader/
 Compile the project using GCC:
 
 ```bash
-gcc *.c -o mp3_reader
+gcc *.c -v mp3_reader
+gcc *.c -e mp3_reader
 ```
 
 Run the program:
